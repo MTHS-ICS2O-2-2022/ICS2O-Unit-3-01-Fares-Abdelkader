@@ -6,30 +6,29 @@
 .mdl-ripple {
     background: #000;
     opacity: 0.001;
-  }
-  
+}
+
   .mdl-layout__header-row {
     justify-content: center;
     padding: 0;
-  }
-  
+}
+
   .mdl-layout__content {
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 15px;
-  }
-  
+}
+
   .page-content {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.25rem;
-  }
-  
+}
+
   img {
     float: right;
-  }
-  
+}
+
   body {
     background-color: white;
-  }
-  
+}
