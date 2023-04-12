@@ -32,3 +32,9 @@ img {
 body {
   background-color: white;
 }
+
+img {
+  float: right;
+  max-height: 250px;
+  width: auto;
+}
